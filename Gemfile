@@ -53,6 +53,7 @@ gem 'cancan'
 gem 'pry-rails'
 gem 'better_errors'
 gem 'activeresource'
+gem 'her'
 
 group :development do
   gem 'letter_opener_web'
